@@ -1,7 +1,7 @@
 a = int(input("Enter a number"))
 
 
-# b = input("Enter another number : ")
+
 
 if a % 3 == 0:
     print("foo")
